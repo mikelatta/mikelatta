@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mikelatta
-- 🌱 I’m currently learning serverless CMS infrastructure.
+- ✨ Executive Vice President and CTO of Cross Tracks Distribution Inc.
+- ✨ Vice President of Latteau Professional Products
 
 <!---
 mikelatta/mikelatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
